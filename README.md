@@ -7,9 +7,13 @@ This repository contains source code, documents, and assets relating to the GHBC
 
 ### Dependencies, Frameworks, Platforms
 Application from Google Play Store
+
 Firebase Console
+
 Google Cloud
+
 Bootstrap
+
 
 ### Thunkable Application
 1. Download application from Play Store
@@ -32,7 +36,7 @@ Zach Albanese - zachalba@uri.edu
 
 Development Version 0.1 - Planning Stage - 3/24/24
 
-### License
+### License 
 
 ### Acknowledgments
 
